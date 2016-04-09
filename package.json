@@ -1,0 +1,13 @@
+{
+  "name": "webpack-react-boilerplate",
+  "version": "0.1.0",
+  "description": "Boilerplate project for front-end development using React and webpack",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "zarjay/webpack-react-boilerplate",
+  "author": "JR Shampang",
+  "license": "MIT",
+  "bugs": "https://github.com/zarjay/webpack-react-boilerplate/issues",
+  "homepage": "https://github.com/zarjay/webpack-react-boilerplate#readme"
+}
