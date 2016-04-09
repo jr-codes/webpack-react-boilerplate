@@ -3,11 +3,21 @@
   "version": "0.1.0",
   "description": "Boilerplate project for front-end development using React and webpack",
   "scripts": {
+    "lint": "npm run lint:css & npm run lint:js",
+    "lint:css": "stylelint src/**/*.scss --syntax scss",
+    "lint:js": "eslint src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "zarjay/webpack-react-boilerplate",
   "author": "JR Shampang",
   "license": "MIT",
   "bugs": "https://github.com/zarjay/webpack-react-boilerplate/issues",
-  "homepage": "https://github.com/zarjay/webpack-react-boilerplate#readme"
+  "homepage": "https://github.com/zarjay/webpack-react-boilerplate#readme",
+  "devDependencies": {
+    "eslint": "^2.7.0",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.3.0",
+    "stylelint": "^5.4.0",
+    "stylelint-config-standard": "^5.0.0",
+  }
 }
