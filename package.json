@@ -14,10 +14,10 @@
   "bugs": "https://github.com/zarjay/webpack-react-boilerplate/issues",
   "homepage": "https://github.com/zarjay/webpack-react-boilerplate#readme",
   "devDependencies": {
-    "eslint": "^2.7.0",
-    "eslint-config-airbnb": "^6.2.0",
-    "eslint-plugin-react": "^4.3.0",
-    "stylelint": "^5.4.0",
-    "stylelint-config-standard": "^5.0.0",
+    "eslint": "2.7.0",
+    "eslint-config-airbnb": "6.2.0",
+    "eslint-plugin-react": "4.3.0",
+    "stylelint": "5.4.0",
+    "stylelint-config-standard": "5.0.0",
   }
 }
